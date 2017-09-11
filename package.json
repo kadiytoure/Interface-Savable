@@ -1,0 +1,26 @@
+{
+  "name": "interface-savable",
+  "version": "0.0.1",
+  "description": "interfaces, typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadiytoure/Interface-Savable.git"
+  },
+  "keywords": [
+    "typescript",
+    "interfaces"
+  ],
+  "author": "kadiy_simplon tourekadiy@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kadiytoure/Interface-Savable/issues"
+  },
+  "homepage": "https://github.com/kadiytoure/Interface-Savable#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
